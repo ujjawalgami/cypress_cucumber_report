@@ -1,7 +1,7 @@
 {
     "json": {
       "enabled": true,
-      "output": "jsonlogs/log.json"
+      "output": "jsonlogs/log.json",
       "formatter": "node cucumber-json-formatter.js"
       
     },
